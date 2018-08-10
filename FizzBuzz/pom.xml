@@ -71,7 +71,7 @@
   <artifactId>heroku-maven-plugin</artifactId>
   <version>0.5.1</version>
   <configuration>
-    <appName>atatime</appName>
+    <appName>fizzbuzz</appName>
   </configuration>
 </plugin>
       
