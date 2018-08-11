@@ -52,7 +52,7 @@ input[type=submit] {
 			value="Begin">
 	</form>
 </div>
-	<div>
+	<div style="margin-left:10%">
 		<table>
 			<thead>
 				<tr>
